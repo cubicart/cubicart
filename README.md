@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /hero.png
-heroText: Cubic Art
+heroText: ᑕᑌᗷIᑕ ᗩᖇT
 tagline: Hero subtitle
 actionText: Get Started ←
 actionLink: /python/

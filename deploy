@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+rm -rf .vuepress/dist
+vuepress build
+cd .vuepress/dist
+git init
+git add .
+git commit -m `date -Is`
+git push -f https://github.com/cubicart/cubicart.github.io.git master
